@@ -1,3 +1,9 @@
+# tfvars goes in tfvars.example
+terraform.tfvars
+
+# other
+.terraform.lock.hcl
+
 # Local .terraform directories
 **/.terraform/*
 

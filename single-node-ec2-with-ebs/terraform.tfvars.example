@@ -1,0 +1,6 @@
+# see other options in variables.tf
+
+name_prefix = "prefix of resource names in AWS"
+key_name = "name of keypair"
+instance_keypair_file = "path to keypair file"
+instance_type = "m6a.2xlarge"
